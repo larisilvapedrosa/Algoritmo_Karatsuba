@@ -16,7 +16,7 @@
    
         - **Navegar até o diretório do projeto**:      
         ```bash
-          cd T1
+          cd Algoritmo_Karatsuba
         ```
    
         - **Executar o programa**:      
