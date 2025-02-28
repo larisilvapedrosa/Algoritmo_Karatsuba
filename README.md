@@ -88,6 +88,7 @@
    ```
    
    ### Exemplo Saída execução
+   ![SaidaExec](Images/SaidaExec.png)
    
    ## Relatório Técnico
    ### Análise da Complexidade Ciclomática
