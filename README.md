@@ -127,4 +127,7 @@
    
    - **Complexidade Espacial**:  
    A complexidade espacial é determinada principalmente pela profundidade da recursão, que é de ordem O(log n) no pior caso. O uso adicional de memória para armazenar as partes divididas e os resultados intermediários é proporcional ao tamanho dos números, mas geralmente é ofuscado pelo custo da recursão.
-   
+
+## Grafo
+![Grafo](Images/grafo.png)
+
